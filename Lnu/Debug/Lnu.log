@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\andriana008\desktop\nav2\projectlnu\dto\dtouser.h(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriana008\desktop\nav2\projectlnu\auth\login.h(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\andriana008\desktop\nav2\projectlnu\auth\mainmenu.h(41): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+  Lnu.vcxproj -> C:\Users\Andriana008\Desktop\nav2\projectLnu\Debug\Lnu.exe
+  Lnu.vcxproj -> C:\Users\Andriana008\Desktop\nav2\projectLnu\Debug\Lnu.pdb (Full PDB)
